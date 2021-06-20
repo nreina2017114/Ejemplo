@@ -1,0 +1,27 @@
+Login
+Registro
+Editar Usuario
+
+1.Home Administrador
+
+Vista Torneo
+Vista Agregar Torneo
+
+2.Home  Usuario
+
+Vista Liga
+Vista Agregar Liga
+
+Vista Equipos Liga
+Vista Agregar Equipos Liga
+
+Vista Ver equipo y liga
+
+Vista Resultado Partidos
+Vista Agregar Resultado Partidos
+
+Vista Grafica Puntos Equipo
+
+
+
+Total = 15 Vistas
